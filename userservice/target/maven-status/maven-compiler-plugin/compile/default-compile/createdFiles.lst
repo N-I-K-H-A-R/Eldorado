@@ -1,0 +1,4 @@
+com\eldorado\userservice\controller\HelloWorldController.class
+com\eldorado\userservice\UserserviceApplication.class
+com\eldorado\userservice\config\LoggingConfig.class
+com\eldorado\userservice\config\SpringFoxConfig.class
