@@ -1,0 +1,32 @@
+.inputsize{
+    width: 100%;
+}
+.formCenter{
+    padding-left: 25%;
+    padding-top: 3%;
+    padding-bottom: 5%;
+    padding-right:25%;
+}
+.searchwidth {
+    width: 50rem;
+    margin-right: 1rem;
+}
+
+
+.form-group.required .control-label:after {
+    content:"*";
+    color:red;
+  }
+  .zeroheight{
+      display: none;
+  }
+
+  .custom-btn {
+    background: #46cdcf;
+    color:(245, 124, 124);
+    border: #46cdcf;
+    padding: 5px 10px;
+  }
+  .bg-secondary {
+    background-color: #497fa9 !important;
+}

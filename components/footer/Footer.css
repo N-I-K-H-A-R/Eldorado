@@ -1,0 +1,17 @@
+.list-unstyled a{
+    margin-right: 20px;  
+}
+.foot{
+    color:rgba(70,205,207,255)
+}
+.insta{
+    color:rgb(225 48 108)
+}
+.google{
+    color:rgb(15 157 88)
+}
+
+.copy {
+    color:rgba(70,205,207,255); 
+    text-decoration: none;
+}
