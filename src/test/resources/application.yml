@@ -1,0 +1,18 @@
+validduration: 120
+baseUri: http://localhost:8083/
+frontEndUri: http://localhost:3000/
+server:
+  port: 8083
+spring:
+  mail:
+    host: smtp.gmail.com
+    password: PSproduct
+    port: 587
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+    username: eldorado2k21@gmail.com
+

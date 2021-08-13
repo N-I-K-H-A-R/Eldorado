@@ -1,0 +1,15 @@
+validduration: 120
+alias: jwtiscool
+keyFile: jwtiscool.jks
+password: jwtiscool
+spring:
+  datasource:
+    password: 0FH08n85Zb6bLEpOI8BV
+    url: jdbc:postgresql://eldorado-prod-db.cuhrancivu97.us-east-1.rds.amazonaws.com:5432/eldorado-prod-db
+    username: eldorado
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQL9Dialect
